@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  width: 15%;
+  border-style: solid;
+  margin-top: 10%;
+  margin-left: 40%;
+  padding: 3%;
+}
+
+.container {
+  background: linear-gradient(to bottom, #2b9abf 0%, #0e109e 100%);
+}
+
+.container {
+  border: 10px;
+  border-radius: 30px;
+}
+
+.text {}
+
+h1 {
+  font-size: 100px;
+  color: azure;
+}
+
+h2 {
+  font-size: 60px;
+  padding: 0;
+  color: azure;
+}
+
+h3 {
+  color: azure;
+}
